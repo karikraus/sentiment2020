@@ -4,6 +4,6 @@ numpy
 matplotlib
 nltk
 networkx
-
+vaderSentiment
 
 
